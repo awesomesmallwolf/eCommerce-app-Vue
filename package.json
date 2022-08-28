@@ -1,15 +1,15 @@
 {
-  "name": "vuemmerce",
+  "name": "ecommerce-Vue",
   "version": "1.1.0",
-  "description": "Ecommerce template built with Vue.js and Nuxt.js",
-  "author": "ivan lori <ivan.lori@protonmail.com>",
+  "description": "Ecommerce template was bootstrapped with Vue.js, Nuxt.js and Tailwind CSS.",
+  "author": "fredcarterwolf",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt generate"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ivanlori/Vuemmerce.git"
+    "url": "git@github.com:fredcarterwolf/eCommerce-app-Vue.git"
   },
   "keywords": [
     "css",
@@ -20,7 +20,8 @@
     "vuejs",
     "theme",
     "responsive",
-    "nuxtjs"
+    "nuxtjs",
+    "tailwindcss"
   ],
   "license": "MIT",
   "dependencies": {
