@@ -1,4 +1,4 @@
-# Ecommerce app is bootstrapped with VueJs, NuxtJs and Tailwind CSS.
+# Ecommerce app wss bootstrapped with VueJs, NuxtJs and Tailwind CSS.
 
 ## Installation
 
